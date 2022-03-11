@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "c:\Users\chej03\source\repos\dinking\automate_the_boring_stuff\raiseAssert.py", line 17, in <module>
+    boxPrint('*', 1, 1)
+  File "c:\Users\chej03\source\repos\dinking\automate_the_boring_stuff\raiseAssert.py", line 7, in boxPrint
+    raise Exception('Width and Height need to be greater than 1')
+Exception: Width and Height need to be greater than 1
